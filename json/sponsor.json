@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sponsor-0",
+    "level": "bronze",
+    "name": {
+      "en": "Rayark",
+      "zh-TW": "雷亞遊戲"
+    },
+    "intro": {
+      "en": "Rayark is a gaming company located in Taipei, working hard at developing original IPs for players to enjoy.\nStarting out on mobile platforms, we now have games across multiple platforms and genres. From rhythm games, casual games, sci-fi action to strategy RPGs…etc. We are always experimenting with more ways to bring a lively experience to our player base.\nWe at Rayark strive to deepen our games and what they represent, trying to expand the limits of what a game can do. In doing so, we strive to give each of our players an unforgettable experience.\nSee more: https://www.rayark.com/en/",
+      "zh-TW": "雷亞遊戲是一家位於台北，致力於開發原創IP的遊戲公司。\n從移動平台為遊戲開發的起點，迄今已拓展至多遊戲平台，作品類型涵蓋音樂節奏、休閒趣味、科幻動作以及策略RPG等類型，同時也致力以多元形式傳遞作品於不同層次的感動。\n雷亞遊戲不斷深入遊戲內涵，嘗試拓展遊戲帶來更多可能性，將感動長久留存在玩家心中。瞭解更多：https://www.rayark.com/zh/"
+    },
+    "image": "Rayark.png",
+    "link": "https://www.rayark.com/zh/"
+  },
+  {
+    "id": "sponsor-1",
+    "level": "co-organizer",
+    "name": {
+      "en": "Open Culture Foundation",
+      "zh-TW": "開放文化基金會"
+    },
+    "intro": {
+      "en": "The Open Culture Foundation (OCF), is a nonpartisan, nonprofit organization, founded in 2014 by several members of Taiwan’s open source community. Our main goal is to support local communities advocate the use of open technologies in broader sectors, including open source software, open hardware, and open data. We help government, enterprises, and NGOs better understand the benefits of adopting open source,and promote the importance of open data to the public sphere. We believe that a culture of open collaboration is the foundation for an innovative society, and the engine of a participatory democracy.",
+      "zh-TW": "財團法人開放文化基金會（Open Culture Foundation，簡稱 OCF）成立的主要目的，是希望能夠藉由法人組織的力量，協助台灣資訊軟體界的開放源碼社群，包含開放原始碼軟體、開放資料、開放政府 (公民科技)。三個主要領域的發展和應用。\n除此之外，也期許能將開源自由的精神，更廣泛地應用在各個領域。因此，除了協助開源社群之外，基金會也協助民間企業、政府單位、非政府組織及學術單位，讓他們更能了解開源軟硬體的優勢、開放資料的重要性，進而在產、官、學三方推廣開源與開放協作的文化。"
+    },
+    "image": "OCF.png",
+    "link": "https://ocf.tw/"
+  }
+]
